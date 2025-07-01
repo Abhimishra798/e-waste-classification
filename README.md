@@ -32,6 +32,7 @@ e-waste-classification/
 - Python 3.10
 - TensorFlow
 - Streamlit
+-  MobileNetV2 Architecture — for efficient transfer learning and image classification.
 - NumPy
 - Pillow
 - Google Colab (for training)
