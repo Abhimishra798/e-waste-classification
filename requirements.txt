@@ -2,3 +2,7 @@ streamlit
 tensorflow
 Pillow
 numpy
+plotly
+streamlit-webrtc
+opencv-python-headless
+pyarrow
